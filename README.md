@@ -1,4 +1,4 @@
-# React Character Creator
+# R3F Playground
 
 A Vite-powered React playground for experimenting with 3D character customization. It includes a lightweight “app router” that maps files in `src/routes` to pages, a sidebar that explores the route tree via Zustand, and several R3F scenes (character creator, physics demos, etc.).
 

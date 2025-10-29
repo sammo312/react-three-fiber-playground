@@ -23,6 +23,10 @@ The dev server runs on `http://localhost:5173/`. Use `yarn build` for a producti
 - `src/stores` – Zustand stores, including the route explorer and character state.
 - `public/*.glb` – GLB assets consumed by the React Three Fiber scenes.
 
+## Add a New route to the Project!
+- simply a new folder to the routes/ directory and render a Page.jsx in the folder.
+
+
 ## Troubleshooting
 
 - If Vite complains about `@tailwindcss/vite` being ESM-only, ensure `vite.config.mjs` remains ESM and you are running a compatible Node version.
